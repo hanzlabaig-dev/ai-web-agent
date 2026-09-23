@@ -19,3 +19,49 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ADDITIONAL NOTICE — AUTHORIZED USE ONLY
+
+This software is provided for educational and authorized security testing
+purposes only.
+
+The MIT License above applies to the source code. It does NOT grant you
+permission to use this software against any computer system, network, or
+service that you do not own or do not have explicit, written permission
+from the owner to test.
+
+By using this software, you agree that:
+
+1. You will only point it at websites, servers, or systems you own or have
+   explicit written authorization to test.
+
+2. You will not use it to access, modify, exfiltrate, disrupt, or interfere
+   with any system, data, or account without authorization.
+
+3. You will comply with all applicable laws in your jurisdiction, including
+   but not limited to:
+     - Pakistan — Prevention of Electronic Crimes Act (PECA) 2016
+     - United States — Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030
+     - United Kingdom — Computer Misuse Act 1990
+     - European Union — Directive 2013/40/EU and national implementations
+
+4. You accept full responsibility for any consequences arising from your
+   use or misuse of this software.
+
+The authors and copyright holders of this software:
+
+- Do not condone or support unauthorized access to computer systems.
+- Are not responsible or liable for any misuse, damage, data loss, or
+  legal consequences resulting from use of this software.
+- Provide this software "as is", without warranty of any kind, express or
+  implied.
+
+IMPORTANT: This repository ships with security enforcement disabled in
+security.py. See the README's "CRITICAL WARNING" section before running
+this software. Running it against a system you do not own or are not
+authorized to test may constitute a criminal offense.
+
+If you are unsure whether your intended use is authorized, do not
+proceed. Seek legal advice.
